@@ -6,16 +6,16 @@ description: Teaching is a large part of my PhD and of my passion for pursuing a
 ---
 
 ### 2017-2018
-Be 262. [Physical Biology Boot Camp](http://www.rpgroup.caltech.edu/be262/)
+Be 262. [Physical Biology Bootcamp](http://www.rpgroup.caltech.edu/be262/)
 with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
-DNA Boot Camp for the [Caltech Alumni trip to the Galápagos](https://events.alumni.caltech.edu/products/galapagos-1) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+DNA Bootcamp for the [Caltech Alumni trip to the Galápagos](https://events.alumni.caltech.edu/products/galapagos-1) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
 ### 2016-2017
-Be 262. [Physical Biology Boot Camp](http://www.rpgroup.caltech.edu/be262/2016/)
+Be 262. [Physical Biology Bootcamp](http://www.rpgroup.caltech.edu/be262/2016/)
 with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
-DNA Boot Camp for the [Caltech Alumni trip to New Zealand](https://events.alumni.caltech.edu/products/travel-new-zealand-with-rob-phillips) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
+DNA Bootcamp for the [Caltech Alumni trip to New Zealand](https://events.alumni.caltech.edu/products/travel-new-zealand-with-rob-phillips) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
 Bi 1. [Principles of Biology](http://bi1.caltech.edu/) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 

@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Suzy</strong> Beeler
-description: Random walking my way to PhD in Biology
+description: Random walking my way to a PhD in Biology
 
 profile:
   align: right

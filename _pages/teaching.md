@@ -20,4 +20,4 @@ DNA Bootcamp for the [Caltech Alumni trip to New Zealand](https://events.alumni.
 Bi 1. [Principles of Biology](http://bi1.caltech.edu/) with [Rob Phillips](http://www.rpgroup.caltech.edu/)
 
 ### 2015-2016
-Bi 8. [Introduction to Molecular Biology: Regulation of Gene Expression ](http://www.its.caltech.edu/~bi8/) with [Ellen Rothenberg](http://www.bbe.caltech.edu/content/ellen-rothenberg)
+Bi 8. [Introduction to Molecular Biology: Regulation of Gene Expression ](http://www.its.caltech.edu/~bi8/) with [Ellen Rothenberg](http://bbe.divisions.caltech.edu/people/ellen-rothenberg)

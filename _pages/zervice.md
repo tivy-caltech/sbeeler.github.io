@@ -9,4 +9,4 @@ description: What I'm doing to make Caltech and the surrounding community a bett
 
 #### I tutor local middle school and high school students in STEM through the [Caltech Y Rise Program](https://caltechy.org/programs_services/tutoring/)
 
-#### I mentor undergrad students through Caltech's [Women Mentoring Women progam](http://diversitycenter.caltech.edu/programs/mentoring).
+#### I mentor undergraduate students through Caltech's [Women Mentoring Women program](http://diversity.caltech.edu/WMW).
